@@ -10,10 +10,10 @@ Server Configuration: Configure the chosen web server (NGINX or Apache) on your 
 
 # Method
 
-Cloud Platform: AWS
-OS: Ubuntu24
-Size: 8Gb RAM
-Services: SSH, Apache2
+Cloud Platform: AWS \
+OS: Ubuntu24 \
+Size: 8Gb RAM \
+Services: SSH, Apache2 \
 
 # Solution
 
